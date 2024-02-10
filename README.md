@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahhul Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">I am student at National Institute of Technology, Patna from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumarroy477&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumarroy477" /> </p>
