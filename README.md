@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumarroy477&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumarroy477" /> </p>
 <img align="right" width="30%" src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/200.webp?cid=790b7611jl82in46op9lttx7w2qxr7nlx76iugec06m1vg06&ep=v1_gifs_search&rid=200.webp&ct=g">
-- 🌱 I’m currently learning Data Analytics **Python**
+- 🌱 I’m currently learning Graphql for Api development
 
 - 👯 I’m looking to collaborate on [Underwater object detection model](https://github.com/rahulkumarroy477/underwater-object-detection)
 
