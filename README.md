@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">I am student at National Institute of Technology, Patna from India</h3>
+<h3 align="center">I am SDE 1 at Amazon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumarroy477&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumarroy477" /> </p>
 <img align="right" width="30%" src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/200.webp?cid=790b7611jl82in46op9lttx7w2qxr7nlx76iugec06m1vg06&ep=v1_gifs_search&rid=200.webp&ct=g">
 - 🌱 I’m currently learning Graphql for Api development
 
-- 👯 I’m looking to collaborate on [Underwater object detection model](https://github.com/rahulkumarroy477/underwater-object-detection)
+- 👯 I’m looking to collaborate on [AthenaLite - A mini version of Athena](https://github.com/rahulkumarroy477/AthenaLiteService.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulkumarroy477/](https://github.com/rahulkumarroy477/)
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
-- 📫 How to reach me **rahulk.ug21.cs@nitp.ac.in**
+- 📫 How to reach me **raahhuul@amazon.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1U44lJ5Oh3J9QsxwBK4pozm3m6MjcgnCW?usp=drive_link](https://drive.google.com/drive/folders/1U44lJ5Oh3J9QsxwBK4pozm3m6MjcgnCW?usp=drive_link)
 
